@@ -26,5 +26,5 @@ Você vai precisar do Python instalado e da biblioteca Pandas. Para instalar o P
 pip install pandas openpyxl
 
 ## EXECUÇÃO
-* PARA RODAR A ANÁLISE DO SISTEMA, EXECUTE O SCRIPT PRINCIPAL:
-python Analize.py
+# PARA RODAR A ANÁLISE DO SISTEMA, EXECUTE O # SCRIPT PRINCIPAL:
+# python Analize.py
